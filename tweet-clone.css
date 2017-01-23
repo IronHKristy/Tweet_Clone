@@ -1,0 +1,80 @@
+#main-outer-div {
+  background-color: rgb(244, 248, 249);
+  width: 801px;
+  height: 273px;
+  font-family: Helvetica;
+}
+
+#main-inner-div {
+  background-color: rgb(255, 255, 255);
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
+  width: 765px;
+  height: 242px;
+  position: absolute;
+}
+
+#profile-pic {
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+}
+
+#top-row {
+  float: left;
+  margin-top: 20px;
+  margin-left: 15px;
+}
+
+#username {
+  color: rgb(0, 0, 0);
+  font: bold 25px Helvetica;
+}
+
+#at-jack {
+  color: rgb(104, 109, 129);
+  font: bold 20px Helvetica;
+}
+
+#follow {
+  width: 140px;
+  height: 40px;
+  margin-top: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  border: 2px solid rgb(84, 172, 238);
+  border-radius: 5px;
+  color: rgb(84, 172, 238);
+  float: right;
+  font: bold 23px Helvetica;
+}
+
+#twitter-logo {
+  margin: 7px 5px 5px 13px;
+}
+
+#just-setting-up {
+  clear: both;
+  margin-top: 115px;
+  margin-left: 20px;
+}
+
+#first-tweet {
+  font: 23px Helvetica;
+  color: rgb(0, 0, 0);
+  margin-bottom: .5em;
+}
+
+#time-date {
+  font: 20px Helvetica;
+  color: rgb(101, 116, 127);
+  margin: 0em;
+}
+
+#bottom-row {
+  margin-left: 20px;
+  color: rgb(105, 120, 130);
+  font: 20px Helvetica;
+}
